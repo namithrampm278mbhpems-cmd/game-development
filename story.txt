@@ -1,2 +1,3 @@
 An app for the idt project.
 so,basically I'm using _____vs code,git and github____ 
+I am "Namith Ram PM" the team coordinator
