@@ -1,1 +1,2 @@
 An app for the idt project.
+so,basically I'm using _____vs code,git and github____ 
